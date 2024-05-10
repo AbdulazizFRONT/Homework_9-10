@@ -1,0 +1,186 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 1110px;
+    margin: 0 auto;
+}
+
+.nav {
+    display: flex;
+    margin-top: 40px;
+}
+
+.ul {
+    margin-right: 41px;
+    margin-left: 545px;
+    display: flex;
+    gap: 40px;
+}
+
+.li {
+    margin-top: 10px;
+    list-style: none;
+    color: #36536B;
+}
+
+.nav_btn-ScheduleaDemo {
+    width: 173px;
+    height: 48px;
+    background-color: #BA4270;
+    border-color: #BA4270;
+    border-radius: 30px;
+    color: white;
+    font-size: 15px;
+}
+
+.row {
+    display: flex;
+    gap: 260px;
+}
+
+.h1 {
+    width: 546px;
+    height: 243px;
+    font-size: 72px;
+    margin-top: 152px;
+}
+
+.IMAGE {
+    width: 300px;
+    height: 500px;
+    margin-top: 58px;
+}
+
+.section {
+    height: 245px;
+    background-color: #1B262F;
+}
+
+.row1 {
+    display: flex;
+    gap: 131px;
+}
+
+.h2 {
+    width: 445px;
+    height: 56px;
+    font-size: 48px;
+    color: #FBFCFE;
+}
+
+.p {
+    width: 445px;
+    height: 112px;
+    font-size: 15px;
+    margin-top: 24px;
+    margin-bottom: px;
+    color: #FBFCFE;
+}
+
+.BTN {
+    width: 129px;
+    height: 48px;
+    font-size: 15px;
+    color: #FBFCFE;
+    border-color: #1B262F;
+    background-color: #1B262F;
+    border-radius: 30px;
+}
+
+.card1 {
+    display: flex;
+    gap: 60px;
+}
+
+.col2 {
+    margin-top: 70px;
+}
+
+.card2 {
+    display: flex;
+    gap: 60px;
+    margin-top: 50px;
+}
+
+.row2 {
+    display: flex;
+}
+
+.img {
+    margin-top: 15px;
+}
+
+.h22 {
+    width: 455px;
+    height: 56px;
+    font-size: 48px;
+    margin-top: 150px;
+    color: #36536B;
+}
+
+.pp {
+    width: 455px;
+    height: 84px;
+    margin-top: 24px;
+    color: #6C8294;
+}
+
+.row3 {
+    display: flex;
+    gap: 30px;
+}
+
+.image {
+    text-align: center;
+    margin-left: 120px;
+}
+
+.h3 {
+    width: 350px;
+    height: 25px;
+    color: #36536B;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 32px;
+}
+
+.ppp {
+    width: 350px;
+    height: 100px;
+    font-size: 15px;
+    color: #6C8294;
+    text-align: center;
+    margin-top: 16px;
+}
+
+.site_footer {
+    background-color: #1B262F;
+    height: 100px;
+}
+
+.row7{
+    display: flex;
+}
+
+.nav_logos{
+    margin-top: 31px;
+}
+
+ul {
+    display: flex;
+    gap: 40px;
+    margin-top: 41px;
+    margin-left: 40px;
+}
+
+li {
+    list-style: none;
+}
+
+.ImG{
+    margin-left: 559px;
+}
